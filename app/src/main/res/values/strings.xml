@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string-array name="quiz_Question">
+        <item>L Algérie est le plus grand pays d Afrique ?</item>
+        <item>La durée d’un jour a toujours été de 24 heures ?</item>
+        <item>Seuls les moustiques femelles piquent ?</item>
+        <item>Les cheveux et les ongles continuent de pousser après la mort ?</item>
+        <item>Les connexions Wi-Fi peuvent être perturbées par les fours à micro-ondes ?</item>
+        <item>Les taches blanches sur les ongles sont dues à un manque de calcium ?</item>
+        <item>Il ne faut pas boire en mangeant ?</item>
+        <item>Les chiffres ont été inventés par les Arabes ?</item>
+        <item>Certaines pierres flottent sur l’eau ?</item>
+        <item>L’éléphant est le seul animal qui ne peut pas sauter ?</item>
+        <item>Pluton est une planète ?</item>
+
+    </string-array>
+
+
+    <string-array name="quiz_Information">
+        <item>Depuis lundi 10 janvier 2011, l Algérie est devenue le pays le plus grand d Afrique avec une superficie de 2 381 741 km2. Le soudan a été le plus grand pays du continent Africain avec 2505 810 km2. Aujourd’hui, ce n’est plus le cas avec la partition du Soudan, avec la création d’un Etat indépendant dans le sud à majorité chrétienne. C’est ainsi que l’Algérie est devenue le 9ème pays le plus vaste du monde. </item>
+        <item>Il y a 900 millions d’années, la durée d’un jour était de 18 heures. Les jours sont de plus en plus longs : ils s’allongent d’environ 2 millisecondes tous les 100 ans.
+
+Cela est dû à l’attraction de la Lune qui freine progressivement la Terre dans sa rotation, ce qui augmente la durée du jour.
+
+L’attraction de la Lune est aussi à l’origine du phénomène des marées </item>
+        <item>Les moustiques mâles et femelles se nourrissent du nectar des fleurs , et participent ainsi à la reproduction des plantes, au même titre que les papillons.
+        Toutefois, les femelles ont aussi besoin de sang pour assurer le développement de leurs oeufs. Pour l’obtenir, elles piquent des mammifères (dont l’homme), des oiseaux, des reptiles ou même d’autres insectes.
+
+En piquant ces hôtes, les femelles sont parfois infestées par des agents microbiens (bactéries, virus, protozoaires), qu’elles transmettent ensuite.
+
+Elles transmettent ainsi le paludisme (une des toutes premières causes de mortalité humaine, responsable de 2 % des décès de l’ensemble de la planète), et de nombreuses maladies telles que la dengue ou la fièvre jaune.</item>
+        <item>Dès que le coeur s’arrête, les cellules ne sont plus irriguées en oxygène par le sang et elles meurent, ce qui interrompt les processus chimiques responsables de la pousse des cheveux et des ongles.
+
+Après la mort, le corps se déshydrate et la peau se rétracte, laissant ainsi les poils et les ongles plus apparents, ce qui donne l’impression qu’ils continuent de pousser.</item>
+        <item> Le Wi-Fi émet des ondes radio dans une plage de fréquences qui va de 2,401 à 2,488 GHz. Or un four à micro-ondes émet des ondes radio à la fréquence de 2,45 GHz. Une partie de ces ondes s’échappe toujours de l’appareil, il n’est donc pas rare que les connexions Wi-Fi soient perturbées lorsqu’un four est mis en marche, en particulier les canaux Wi-Fi 9 et 10.</item>
+        <item>Les ongles sont composés de couches de kératine superposées. Les taches blanches apparaissent quand l’une de ses couches se décolle, par exemple sous l’effet d’un micro-traumatisme physique (coup ou pincement, qui passent souvent inaperçus) ou chimique (soin de beauté).
+
+Lorsque les taches sont grandes ou striées, et qu’elles sont accompagnées d’un changement de couleur ou de structure, elles peuvent être dues à une maladie de peau comme une mycose (infection par un champignon) ou un psoriasis (maladie bénigne et non contagieuse, dont les causes sont à l’heure actuelle inconnues).
+
+La tache blanche en forme de croissant située à la base des ongles (surtout au niveau des pouces) est appelée la "lunule". Elle se forme suite à un relâchement dans la formation des lamelles de kératine qui composent l’ongle.</item>
+        <item>Il n’y a aucune preuve scientifique pour appuyer la théorie selon laquelle il ne faut pas boire d’eau pendant les repas : l’estomac s’adapte en effet aux aliments consommés, qu’ils soient liquides ou solides, et il produit les sucs gastriques en conséquence.
+
+Boire pendant les repas est même recommandé en cas de constipation, car l’eau facilite le transit.</item>
+        <item>En France, les dix chiffres 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 sont appelés les "chiffres arabes". Ces chiffres ont été inventés par les Indiens au 3e siècle avant Jésus-Christ. Ils ont été transmis au monde arabe au 8e siècle, et introduits en Europe par les Arabes au 10e siècle.</item>
+        <item>La pierre ponce flotte sur l’eau. Cette pierre est formée par la lave des volcans. Elle flotte parce qu’elle contient de nombreuses bulles de gaz, emprisonnées par la lave qui refroidit rapidement.</item>
+        <item>L’éléphant est incapable de sauter à la verticale, car il est trop lourd, mais il n’est pas le seul. De nombreux autres animaux ne savent pas sauter (ex. : les tortues, les escargots et les huîtres), y compris chez les mammifères (ex. : les hippopotames et les paresseux).</item>
+        <item>Les objets du système solaire sont classés selon leur taille et leur environnement, et sont appelés planètes, planètes naines et petits corps.
+
+Pluton a été jusqu’en 2006 la plus petite planète du système solaire. En 2005, la découverte d’Éris, qui est plus grande que Pluton, amena l’Union Astronomique Internationale à redéfinir la notion de planète et à rétrograder Pluton au rang de planète naine en août 2006.</item>
+    </string-array>
+</resources>
+
